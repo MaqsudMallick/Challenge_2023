@@ -13,13 +13,13 @@ are highlighted in red
 This task is not limited to a single page. You must navigate through various pages to gather 
 data comprehensively. Your application should extract the following details:
 
-● Blog title: Capture the titles of the blog posts.
+1. Blog title: Capture the titles of the blog posts.
 
-● Blog date: Retrieve the publication dates of each blog post.
+2. Blog date: Retrieve the publication dates of each blog post.
 
-● Blog image URL: Extract the URLs of the images associated with the blogs.
+3. Blog image URL: Extract the URLs of the images associated with the blogs.
 
-● Blog likes count: Record the number of likes each blog post has received.
+4. Blog likes count: Record the number of likes each blog post has received.
 
-● Data management: The data you gather should be organized and saved efficiently. The preferred format for storage is either Excel or CSV. Ensure that the extracted data is 
+5. Data management: The data you gather should be organized and saved efficiently. The preferred format for storage is either Excel or CSV. Ensure that the extracted data is 
 accurately structured for easy analysis.
